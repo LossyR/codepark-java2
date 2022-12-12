@@ -1,0 +1,3 @@
+Rainbow tags, Highlight matching tags e material icon theme: Escolhi essas 3 por questões estéticas mas também ajuda bastante na hora de codar. O rainbow tags facilita na diferenciação. O Highlight matching tags indica quais as tags de fechamento e o material icon theme adiciona um ícone pra cada arquivo. Um arquivo java terá um ícone com a logo do java.
+
+Html css support e Css peek: O html css support traz o autocomplete que temos no html, o que agiliza muito o trabalho e com o css peek, podemos alterar as folhas de estilo com mais facilidade, sem precisar procurar pelos elementos em um arquivo css específico.
